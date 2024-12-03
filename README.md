@@ -12,4 +12,5 @@
 - [ ] [:memo: 15 Years of Google Earth and the Lessons That Went Unlearned - Brian Timoney](https://mapbrief.com/2020/06/26/15-years-of-google-earth-and-the-lessons-that-went-unlearned/)
 - [ ] [:memo: Few Interact With Our Interactive Maps–What Can We Do About It? - Brian Timoney](https://mapbrief.com/2017/04/06/few-interact-with-our-interactive-maps-what-can-we-do-about-it/)
 - [ ] [:memo: Why Map Portals Don’t Work – Part I - Brian Timoney](https://mapbrief.com/2013/02/05/why-map-portals-dont-work-part-i/)
-- [ ] [:arrow_forward: Scientific Python: Community, Tools, and Open Science - Stéfan van der Walt](https://www.youtube.com/watch?v=cmUtiEv4xm4&embeds_referring_euri=https%3A%2F%2Fbids.berkeley.edu%2F)
+    - [ ] [:arrow_forward:  Hangouts with James Fee:: A portal into portals](https://www.youtube.com/watch?v=lEIUmB080p0)
+- [ ] [:arrow_forward: Scientific Python: Community, Tools, and Open Science - Stéfan van der Walt](https://www.youtube.com/watch?v=cmUtiEv4xm4)
