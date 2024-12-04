@@ -15,3 +15,4 @@
     - [ ] [:arrow_forward:  Hangouts with James Fee:: A portal into portals](https://www.youtube.com/watch?v=lEIUmB080p0)
 - [ ] [:arrow_forward: Scientific Python: Community, Tools, and Open Science - Stéfan van der Walt](https://www.youtube.com/watch?v=cmUtiEv4xm4)
 - [x] [:memo: If not React, then what? - Alex Russell](https://infrequently.org/2024/11/if-not-react-then-what/#fn-why-not-1)
+- [ ] [:memo: New report highlights the scientific impact of open source software](https://www.statnews.com/sponsor/2024/11/26/new-report-highlights-the-scientific-impact-of-open-source-software/)
