@@ -16,4 +16,6 @@
 - [ ] [:arrow_forward: Scientific Python: Community, Tools, and Open Science - Stéfan van der Walt](https://www.youtube.com/watch?v=cmUtiEv4xm4)
 - [x] [:memo: If not React, then what? - Alex Russell](https://infrequently.org/2024/11/if-not-react-then-what/#fn-why-not-1)
 - [x] [:memo: New report highlights the scientific impact of open source software](https://www.statnews.com/sponsor/2024/11/26/new-report-highlights-the-scientific-impact-of-open-source-software/)
-- [x] [:arrow_forward:  How JupyterLab and widgets enable interactive analysis of the Earth's past, present, and future - Tyler Erickson](https://www.youtube.com/watch?v=wOm_d73wMQ0)
+- [x] [:arrow_forward: How JupyterLab and widgets enable interactive analysis of the Earth's past, present, and future - Tyler Erickson](https://www.youtube.com/watch?v=wOm_d73wMQ0)
+- [ ] [:arrow_forward: Google Earth Engine, Curiosity & Working With and For a Community - Tyler Erickson](https://www.youtube.com/watch?v=Pg2hgWDQIQ4)
+- [ ] [:arrow_forward: Analyzing Petabytes of Earth Science Data with Jupyter and Earth Engine - Tyler Erickson](https://www.youtube.com/watch?v=LzxQH0Ze0iI)
