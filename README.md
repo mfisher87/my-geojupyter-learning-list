@@ -19,3 +19,5 @@
 - [x] [:arrow_forward: How JupyterLab and widgets enable interactive analysis of the Earth's past, present, and future - Tyler Erickson](https://www.youtube.com/watch?v=wOm_d73wMQ0)
 - [ ] [:arrow_forward: Google Earth Engine, Curiosity & Working With and For a Community - Tyler Erickson](https://www.youtube.com/watch?v=Pg2hgWDQIQ4)
 - [ ] [:arrow_forward: Analyzing Petabytes of Earth Science Data with Jupyter and Earth Engine - Tyler Erickson](https://www.youtube.com/watch?v=LzxQH0Ze0iI)
+- [ ] [:arrow_forward: How Jupyter and geemap enable interactive mapping and analysis - Qiusheng Wu](https://www.youtube.com/watch?v=5Nab84IssxA)
+- [ ] [:arrow_forward: Real time Crunching of Petabytes of Geospatial Data with Google Earth Engine - Randy Sa](https://www.youtube.com/watch?v=8LZGBL4U3F4)
