@@ -21,3 +21,4 @@
 - [ ] [:arrow_forward: Analyzing Petabytes of Earth Science Data with Jupyter and Earth Engine - Tyler Erickson](https://www.youtube.com/watch?v=LzxQH0Ze0iI)
 - [ ] [:arrow_forward: How Jupyter and geemap enable interactive mapping and analysis - Qiusheng Wu](https://www.youtube.com/watch?v=5Nab84IssxA)
 - [ ] [:arrow_forward: Real time Crunching of Petabytes of Geospatial Data with Google Earth Engine - Randy Sa](https://www.youtube.com/watch?v=8LZGBL4U3F4)
+- [x] [:memo: Good Conversations Have Lots of Doorknobs - Adam Mastroianni](https://www.experimental-history.com/p/good-conversations-have-lots-of-doorknobs)
